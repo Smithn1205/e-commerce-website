@@ -30,7 +30,7 @@ For detailed setup instructions, refer to the documentation in the respective fr
 
 Contributions from the open-source community are welcome! Whether you want to fix a bug, add a new feature, or improve documentation, your help is highly appreciated. Please follow our [Contribution Guidelines] for more details.
 
-We hope you find this e-commerce website example educational and inspiring. Happy coding!
+I hope you find this e-commerce website example educational and inspiring. Happy coding!
 
 
 # Getting Started with Create React App
